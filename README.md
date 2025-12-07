@@ -1,1 +1,2 @@
-Reaxt & Typescript with Steve Kinney
+Next.js with Scott Moss
+
